@@ -11,6 +11,26 @@ namespace GitTest.Controllers
         public ActionResult Index()
         {
             return View();
+            dkksdalkasdkl;
+            fkasj;
+            dfkjas;
+            ldkfaslkdj;
+            faklsdjf;
+            aksldjfsad;
+            lkfj;
+            asdkjf;
+            asdkjf;
+            alkdsjf;
+            alksdj;
+            aklj;
+            ;
+            ;
+            skadjf;
+            slkaj;
+            sdkja;
+            lksjdfalk;
+            sjdklajs;
+            dfkjas;as
         }
 
         public ActionResult About()
